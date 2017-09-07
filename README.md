@@ -2,5 +2,5 @@
 
 This app is not web enabled. I just created a small footprint which runs a spec
 
-    ./gradlew clean build test bootRun
+    ./gradlew clean build test
 
